@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragonAcc", "DragonAcc.csproj", "{2C6FC62C-1D10-4C41-AF99-9D2EC5DAA208}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C6FC62C-1D10-4C41-AF99-9D2EC5DAA208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C6FC62C-1D10-4C41-AF99-9D2EC5DAA208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C6FC62C-1D10-4C41-AF99-9D2EC5DAA208}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C6FC62C-1D10-4C41-AF99-9D2EC5DAA208}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BC9058E-B7DD-4869-825E-7DDFD03FAEE1}
+	EndGlobalSection
+EndGlobal
